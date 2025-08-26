@@ -46,6 +46,7 @@ Ao executar o programa, o usuário verá o seguinte menu:
 
 ```
 ================ MENU ================
+
 [d]	Depositar
 
 [s]	Sacar
