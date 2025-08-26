@@ -47,12 +47,19 @@ Ao executar o programa, o usuário verá o seguinte menu:
 ```
 ================ MENU ================
 [d]	Depositar
+
 [s]	Sacar
+
 [e]	Extrato
+
 [nc]	Nova conta
+
 [lc]	Listar contas
+
 [nu]	Novo usuário
+
 [q]	Sair
+
 ```
 
 ## 🚀 Como executar
